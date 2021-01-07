@@ -1,0 +1,21 @@
+Action.c(121): Cost1 of ticket is: 723
+Action.c(122): Cost2 of ticket is: 644
+Action.c(123): Cost3 of ticket is: 684
+Action.c(124): Cost4 of ticket is: 592
+Action.c(125): 
+Action.c(254): Cost1 of ticket is: 559
+Action.c(255): Cost2 of ticket is: 498
+Action.c(256): Cost3 of ticket is: 529
+Action.c(257): Cost4 of ticket is: 458
+Action.c(258): 
+Action.c(391): Cost1 of ticket is: 293
+Action.c(392): Cost2 of ticket is: 261
+Action.c(393): Cost3 of ticket is: 277
+Action.c(394): Cost4 of ticket is: 240
+Action.c(395): 
+Action.c(418): Required cost of ticket is: 293
+Action.c(419): Index of required cost of ticket is: 0
+Action.c(421): Required OutBoundFlight is: 060;293;04/29/2020
+Action.c(422): Date of flight is: 04/29/2020
+Action.c(423): Arrive city is: San Francisco
+Action.c(424): Type of Seat is: Business

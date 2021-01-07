@@ -1,0 +1,12 @@
+Action.c(121): Cost1 of ticket is: 472
+Action.c(122): Cost2 of ticket is: 420
+Action.c(123): Cost3 of ticket is: 446
+Action.c(124): Cost4 of ticket is: 386
+Action.c(125): 
+Action.c(148): Required cost of ticket is: 386
+Action.c(149): Index of required cost of ticket is: 3
+Action.c(151): Required OutBoundFlight is: 033;386;04/29/2020
+Action.c(152): Date of flight is: 04/29/2020
+Action.c(153): Arrive city is: Los Angeles
+Action.c(154): Type of Seat is First
+Vuser Terminated.
